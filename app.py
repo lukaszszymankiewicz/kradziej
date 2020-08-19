@@ -1,6 +1,8 @@
+#!/usr/bin/env python3
+
 import tkinter as tk
 
-from kradziej import get_scores_from_url
+from data import get_scores_from_url
 
 
 def succes_window():
